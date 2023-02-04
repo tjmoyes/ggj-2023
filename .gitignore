@@ -73,3 +73,5 @@ ggj2023/Intermediate/*
 
 # Cache files for the editor to use
 ggj2023/DerivedDataCache/*
+
+!ggj2023/Plugins/FMODStudio/*
