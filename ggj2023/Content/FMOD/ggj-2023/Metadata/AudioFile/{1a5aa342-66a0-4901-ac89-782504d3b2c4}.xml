@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1a5aa342-66a0-4901-ac89-782504d3b2c4}">
+		<property name="assetPath">
+			<value>beep2.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3432879818594103</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{97b53692-e63c-4f20-8bab-cad4fb51c22e}</destination>
+		</relationship>
+	</object>
+</objects>
